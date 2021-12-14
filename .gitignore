@@ -10,3 +10,5 @@ coverage
 .vscode
 
 OUTPUT_*
+# Local Netlify folder
+.netlify
